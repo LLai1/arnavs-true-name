@@ -1,4 +1,11 @@
 {
-    "url" : "https://arnavs-true-name.herokuapp.com",
-    "license": "MIT"
+  "name": "package",
+  "version": "1.0.0",
+  "description": "cringe thing for nick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
 }
